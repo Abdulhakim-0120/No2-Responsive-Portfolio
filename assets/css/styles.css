@@ -596,6 +596,7 @@ body.dark-theme {
   z-index: -1;
   opacity: 0;
   transition: opacity .6s;
+  position: absolute;
 }
 
 .services__card:hover i {
